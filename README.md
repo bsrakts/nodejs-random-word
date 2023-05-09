@@ -58,3 +58,19 @@ node index.js
 - A space character is added between each word when generating the file.
 
 - The 10 most frequently used words are calculated based on the number of words in the file, and only words with 4 or more characters are considered.
+## Tech Stack
+
+NodeJS
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dbusraktas/)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dbusraktas)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
